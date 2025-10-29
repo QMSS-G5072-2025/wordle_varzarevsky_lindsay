@@ -1,3 +1,1 @@
-# read version from installed package
-from importlib.metadata import version
-__version__ = version("wordle_lmv2141")
+from .core import validate_guess, check_guess, is_valid_word
