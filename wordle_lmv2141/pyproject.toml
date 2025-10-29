@@ -2,7 +2,7 @@
 name = "wordle_lmv2141"
 version = "0.1.0"
 description = "Package  for Homework 7 - package creation"
-authors = ["Lindsay Varzarevsky"]
+authors = ["Lindsay Varzarevsky <lindsayvarzz@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
